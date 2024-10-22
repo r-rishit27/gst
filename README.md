@@ -1,4 +1,4 @@
-# Gst discrepency Classification Model using XGBoost
+# Gst Discrepency Classification Model using XGBoost
 
 ## 📘 Project Overview
 
